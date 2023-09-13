@@ -16,3 +16,5 @@ Aioewa is very open for pull requests as long it is not a dup, NSFW, not followi
 Aioewa is in WIP (Work In Progress) so it will not be very useful yet.
 <br>
 Be happy to contribute with suggestions, bugs and more in the forums on discord.
+<br>
+Aioewa is open source: [aioewa on github](https://github.com/StioStudio/aioewa)
