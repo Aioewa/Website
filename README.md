@@ -8,19 +8,17 @@
     * [Get the folder](#get-the-folder)
         * [Git](#git)
         * [Manual download](#manual-download)
-    * [Load aioewa in to your browser](#load-aioewa-in-to-your-browser)
+    * [Load Aioewa into your browser](#load-aioewa-into-your-browser)
         * [Manual load](#manual-load)
 * [Contribute to Aioewa](#contribute-to-aioewa)
     * [Create/change the code](#createchange-the-code)
     * [Send in bug reports](#send-in-bug-reports)
     * [Send in suggestions](#send-in-suggestions)
     * [Join the community](#join-the-community)
-    * [Fund Aioewa (not available at this time)](#fund-aioewa-not-available-at-this-time)
+    * [Fund Aioewa](#fund-aioewa)
 
 ## What is Aioewa?
 `Aioewa` aka `All in one extension with addons` is an extension that gives you tons of different addons/features that is made by the public. 
-
-If you want to learn more about Aioewa then you can to [the GitHub repository](https://github.com/StioStudio/Aioewa)
 
 ## How to install Aioewa
 ### Getting the repository
@@ -79,7 +77,7 @@ There is many ways to contribute to Aioewa. You can:
 * [Send in bug reports](#send-in-bug-reports)
 * [Send in suggestions](#send-in-suggestions)
 * [Join the community](#join-the-community)
-* [Fund Aioewa (not available at this time)](#fund-aioewa-not-available-at-this-time)
+* [Fund Aioewa (not available at this time)](#fund-aioewa)
 
 ### Create/change the code
 Create a new fork of Aioewa and make your changes. Then create a new pull request. 
@@ -90,5 +88,7 @@ You can either send a issue on GitHub or send a message/post to our community si
 ### Join the community
 [Discord](https://aioewa.stio.studio/discord)
 
-### Fund Aioewa (not available at this time)
-We currently do not have any way to collect donations 😾
+### Fund Aioewa
+<a href='https://ko-fi.com/A0A8UVN2X' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi4.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+
+<a href="https://www.buymeacoffee.com/Aioewa" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
